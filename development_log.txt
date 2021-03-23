@@ -1,0 +1,7 @@
+
+This is a development log shared between the two developers on this
+project, Martin Page and Scott Urnikis. This is meant as a place for
+writing down the tasks that have been implemented so far.
+----------------------------------------------------------------------
+
+1. sau: Made development log file.
